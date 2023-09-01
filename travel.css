@@ -616,7 +616,7 @@ footer{
   
 }
 .footer-flex{
-  width: 85%;
+  width: 100%;
   height: auto;
   margin: auto;
   display: flex;
@@ -1011,7 +1011,8 @@ input[type = email]{
         height: 100%;
     }
     .card-item h2{
-        font-size: 2rem;
+        font-size: 1.3rem;
+        padding: .3rem;
     }
     .service-cards{
         width: 70%;
@@ -1076,5 +1077,25 @@ input[type = email]{
       font-size: 1rem;
     }
    
+.about{
+  width: 100%;
+  margin: 1rem;
+ 
+}
+.navigation {
+  width: 100%;
+}
+.news-letter {
+  width: 100%;
+}
+.footer-copyrights {
+  width: 100%;
+  text-align: justify;
+  margin-top: 1rem;
+}
+.footer-icons {
+  width: 100%;
+ 
+}
     
 }
