@@ -946,9 +946,7 @@ input[type = email]{
     
   }
   /* blog */
-  .blog-container{
-    /* flex-direction: column; */
-  }
+ 
   .blog{
     margin-top: 2rem;
   }
@@ -962,6 +960,7 @@ input[type = email]{
     font-size: 1.6rem;
 
   }
+
   /* footer */
   .footer-flex{
    flex-direction: column;
@@ -969,6 +968,26 @@ input[type = email]{
   }
   input[type=email]{
     width: 60%;
+  }
+  .about{
+    width: 100%;
+    margin: 1rem;
+   
+  }
+  .navigation {
+    width: 100%;
+  }
+  .news-letter {
+    width: 100%;
+  }
+  .footer-copyrights {
+    width: 100%;
+    text-align: justify;
+    margin-top: 1rem;
+  }
+  .footer-icons {
+    width: 100%;
+   
   }
 
 
