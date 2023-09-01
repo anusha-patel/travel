@@ -996,7 +996,7 @@ input[type = email]{
    
     .cards{
         flex-flow: column;
-        margin-top: 0rem;
+        margin-top: -20rem;
     }
 
     .card .card-item{
@@ -1039,7 +1039,7 @@ input[type = email]{
       
     }
     .blog .image{
-      width: 30rem;
+      width: 100%;
     }
 
     .blog .image .img{
